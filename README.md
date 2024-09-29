@@ -1,6 +1,6 @@
 <body>
   <center>
-<h1 align="center"> ⛔ ~ HOLA ~ ⛔ </h1>
+<h1 align="center">   HOLA   </h1>
 
 <br>
 <!--<p align="center">
