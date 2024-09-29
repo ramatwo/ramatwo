@@ -1,19 +1,20 @@
 <body>
   <center>
 <h1 align="center"> ⛔ ~ HOLA ~ ⛔ </h1>
+
 <br>
 <!--<p align="center">
   <p align="center">
-    <a href="https://ramatwo.site/">
+    <a href="https://ryzendesu.vip/">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Bienvenido+a+mi+GitHub+ramatwo"
+            src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Selamat+Datang+Di+Github+ramatwo"
             alt="ramatwo"
         />
     </a>
 </p>-->
 <a href="https://github.com/ramatwo"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Y5YmFmN3c4YzI2YzFjaGVuaDJzeHVlbWNwN3U2enRnd3B3cXNoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WzR8zb0PN6bUmfz4DW/giphy.gif" />
 </p>
-  <a href="https://github.com/ramatwo"><img src="https://cardivo.vercel.app/api?name=RamaTwo&description=Hola,%20Me%20llamo%20rama&image=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Y5YmFmN3c4YzI2YzFjaGVuaDJzeHVlbWNwN3U2enRnd3B3cXNoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WzR8zb0PN6bUmfz4DW/giphy.gif&instagram=ramatwo_&github=ramatwo&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/ramatwo"><img src="https://cardivo.vercel.app/api?name=RamaTwo&description=Hola,%20Me%20llamo%20rama&image=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Y5YmFmN3c4YzI2YzFjaGVuaDJzeHVlbWNwN3U2enRnd3B3cXNoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WzR8zb0PN6bUmfz4DW/giphy.gif&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ramatwo_&github=ramatwo&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 <details open align="center">
