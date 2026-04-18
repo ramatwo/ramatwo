@@ -14,7 +14,7 @@
 </p>-->
 <a href="https://github.com/ramatwo"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Y5YmFmN3c4YzI2YzFjaGVuaDJzeHVlbWNwN3U2enRnd3B3cXNoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WzR8zb0PN6bUmfz4DW/giphy.gif" />
 </p>
-  <a href="https://github.com/ramatwo"><img src="https://cardivo.vercel.app/api?name=RamaTwo&description=odiii&image=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Y5YmFmN3c4YzI2YzFjaGVuaDJzeHVlbWNwN3U2enRnd3B3cXNoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WzR8zb0PN6bUmfz4DW/giphy.gif&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ramatwo_&github=ramatwo&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/ramatwo"><img src="https://cardivo.vercel.app/api?name=RamaTwo&description=odiii&image=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Y5YmFmN3c4YzI2YzFjaGVuaDJzeHVlbWNwN3U2enRnd3B3cXNoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WzR8zb0PN6bUmfz4DW/giphy.gif&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ramatwz&github=ramatwo&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 <details open align="center">
