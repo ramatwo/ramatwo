@@ -20,7 +20,7 @@
 <details open align="center">
 <summary><b>← Visitantes ↓</b></summary>
 <br>
-<a href="https://www.instagram.com/ramatwo_"><img alt="hola" src="https://count.getloli.com/get/@ramatwo?theme=rule34"/></a>
+<a href="https://www.instagram.com/ramatwz"><img alt="hola" src="https://count.getloli.com/get/@ramatwo?theme=rule34"/></a>
 </details>
 </div>
 
@@ -72,7 +72,7 @@ Sé un poco de cada, no soy experto en ninguno.
 <h2 align="center"> 📝 ~ CONTACT ~ 📝 </h2>
 
 <p align="center">
-<a href="https://www.instagram.com/ramatwo_" target="_blank"><img src="https://img.shields.io/badge/-ramatwo_-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/ramatwz" target="_blank"><img src="https://img.shields.io/badge/-ramatwz-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://paypal.me/ramardo" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
 </p>
 </div>
