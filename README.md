@@ -44,10 +44,6 @@
 <p align="center">
   <a href="https://github.com/ramatwo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ramatwo&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
-  
-<p align="center">
-  <a href="https://github.com/ramatwo"><img src="https://github-profile-trophy.vercel.app/?username=ramatwo&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
-</p>
     
 
 <div>
@@ -66,7 +62,7 @@
 <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <br>
-Sé un poco de cada, no soy experto en ninguno.
+Sé un poco de cada
 </p>
 <br>
 <h2 align="center"> 📝 ~ CONTACT ~ 📝 </h2>
